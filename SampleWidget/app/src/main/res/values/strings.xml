@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleWidget</string>
+    <string name="person_name">김진수</string>
+    <string name="choice">선택</string>
+</resources>
